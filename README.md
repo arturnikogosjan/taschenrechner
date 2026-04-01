@@ -27,3 +27,10 @@ Color customLightGray = new Color(212, 212, 210);
 Color customDarkGray = new Color(80, 80, 80);
 Color customBlack = new Color(28, 28, 28);
 Color customOrange = new Color(255, 149, 0);
+
+**Nachher:**  
+```java
+Color customLightGray = new Color(210, 210, 210);
+Color customDarkGray = new Color(50, 50, 60);
+Color customBlack = new Color(20, 20, 30);
+Color customOrange = new Color(0, 122, 255); // Blau statt Orange
