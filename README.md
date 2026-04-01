@@ -26,7 +26,7 @@ Ich habe den Taschenrechner modernisiert, indem ich **Farben und Button-Darstell
 | Light Gray    | ⬜ `Color(212,212,210)` | ⬜ `Color(210,210,210)` (leicht heller)    |
 | Dark Gray     | ◼️ `Color(80,80,80)`   | ◼️ `Color(50,50,60)` (dunkler/bläulich)   |
 | Black         | ⬛ `Color(28,28,28)`    | ⬛ `Color(20,20,30)` (dunkler)             |
-| Orange → Blau | 🟧 `Color(255,149,0)`  | 🟦 `Color(0,122,255)` (Blau statt Orange) |
+| Orange zu Blau | 🟧 `Color(255,149,0)`  | 🟦 `Color(0,122,255)` (Blau statt Orange) |
 
 **2. Buttons:**
 | Eigenschaft | Vorher                | Nachher  |
