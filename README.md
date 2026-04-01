@@ -14,7 +14,8 @@ Der Code basiert auf einem Tutorial und wurde von mir zum Lernen verwendet.
 ## 🎯 Lernziel
 - 💻 Java installieren (bzw. alle nötigen Programme, die man braucht)  
 - 🌐 Einen GitHub-Account erstellen und erstes GitHub-Projekt anlegen  
-- 📝 Erste Einblicke in die Programmierung bekommen, indem ich ein Tutorial nachgemacht habe  
+- 📝 Erste Einblicke in die Programmierung bekommen, indem ich ein Tutorial nachgemacht habe
+- 🎨 Den Taschenrechner optisch anpassen, indem ich Farben und Buttons geändert habe
 
 ## 🎨 Änderungen am Design
 Ich habe den Taschenrechner modernisiert, indem ich **Farben und Button-Darstellung** angepasst habe.
