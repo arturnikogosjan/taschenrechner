@@ -35,3 +35,9 @@ Dark Gray: vorher Color(80, 80, 80), nachher Color(50, 50, 60) (dunkler, leicht 
 Black: vorher Color(28, 28, 28), nachher Color(20, 20, 30) (dunkler)
 
 Orange zu Blau: vorher Color(255, 149, 0), nachher Color(0, 122, 255) (Blau statt Orange)
+
+| Eigenschaft              | Vorher                                                     | Nachher                                                          |
+| ------------------------ | ---------------------------------------------------------- | ---------------------------------------------------------------- |
+| Button-Rand              | sichtbar (`button.setBorder(new LineBorder(customBlack))`) | entfernt (`button.setBorder(BorderFactory.createEmptyBorder())`) |
+| Fokusrahmen beim Klicken | sichtbar (Systemstandard)                                  | entfernt (`button.setFocusPainted(false)`)                       |
+
