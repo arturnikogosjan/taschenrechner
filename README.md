@@ -21,16 +21,10 @@ Der Code basiert auf einem Tutorial und wurde von mir zum Lernen verwendet.
 Ich habe den Taschenrechner modernisiert, indem ich **Farben und Button-Darstellung** angepasst habe.
 
 **1. Farben:**  
-**Vorher:**  
-```java
-Color customLightGray = new Color(212, 212, 210);
-Color customDarkGray = new Color(80, 80, 80);
-Color customBlack = new Color(28, 28, 28);
-Color customOrange = new Color(255, 149, 0);
+| Farbe       | Vorher | Nachher               |
+| ----------- | ------ | --------------------- |
+| Light Gray  | ⬜      | ⬜ (leicht heller)     |
+| Dark Gray   | ◼️     | ◼️ (dunkler/bläulich) |
+| Black       | ⬛      | ⬛ (dunkler)           |
+| Orange/Blau | 🟧     | 🟦                    |
 
-**Nachher:**  
-```java
-Color customLightGray = new Color(210, 210, 210);
-Color customDarkGray = new Color(50, 50, 60);
-Color customBlack = new Color(20, 20, 30);
-Color customOrange = new Color(0, 122, 255); // Blau statt Orange
