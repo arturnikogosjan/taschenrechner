@@ -27,6 +27,8 @@ Ich habe den Taschenrechner modernisiert, indem ich **Farben und Button-Darstell
 | Dark Gray   | ◼️     | ◼️ (dunkler/bläulich) |
 | Black       | ⬛      | ⬛ (dunkler)           |
 | Orange/Blau | 🟧     | 🟦                    |
+
+
 Light Gray: vorher Color(212, 212, 210), nachher Color(210, 210, 210) (leicht heller)
 Dark Gray: vorher Color(80, 80, 80), nachher Color(50, 50, 60) (dunkler, leicht bläulich)
 Black: vorher Color(28, 28, 28), nachher Color(20, 20, 30) (dunkler)
