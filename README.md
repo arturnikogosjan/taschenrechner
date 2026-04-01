@@ -30,6 +30,9 @@ Ich habe den Taschenrechner modernisiert, indem ich **Farben und Button-Darstell
 
 
 Light Gray: vorher Color(212, 212, 210), nachher Color(210, 210, 210) (leicht heller)
+
 Dark Gray: vorher Color(80, 80, 80), nachher Color(50, 50, 60) (dunkler, leicht bläulich)
+
 Black: vorher Color(28, 28, 28), nachher Color(20, 20, 30) (dunkler)
-Orange → Blau: vorher Color(255, 149, 0), nachher Color(0, 122, 255) (Blau statt Orange)
+
+Orange zu Blau: vorher Color(255, 149, 0), nachher Color(0, 122, 255) (Blau statt Orange)
