@@ -3,7 +3,6 @@
 ## 📖 Beschreibung
 Ein einfacher Taschenrechner, entwickelt in Java.  
 Er kann Addition ➕, Subtraktion ➖, Multiplikation ✖️ und Division ➗ durchführen.  
-Das Projekt diente dazu, Java zu installieren, ein GitHub-Repository anzulegen und erste Einblicke in die Programmierung zu bekommen, indem ich ein Tutorial angeschaut und 1:1 nachgemacht habe.  
 Der Code basiert auf einem Tutorial und wurde von mir zum Lernen verwendet.
 
 ## ⚙️ Funktionen
