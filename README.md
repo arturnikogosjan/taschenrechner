@@ -40,4 +40,3 @@ Orange zu Blau: vorher Color(255, 149, 0), nachher Color(0, 122, 255) (Blau stat
 | ------------------------ | ---------------------------------------------------------- | ---------------------------------------------------------------- |
 | Button-Rand              | sichtbar (`button.setBorder(new LineBorder(customBlack))`) | entfernt (`button.setBorder(BorderFactory.createEmptyBorder())`) |
 | Fokusrahmen beim Klicken | sichtbar (Systemstandard)                                  | entfernt (`button.setFocusPainted(false)`)                       |
-
