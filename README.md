@@ -21,21 +21,12 @@ Der Code basiert auf einem Tutorial und wurde von mir zum Lernen verwendet.
 Ich habe den Taschenrechner modernisiert, indem ich **Farben und Button-Darstellung** angepasst habe.
 
 **1. Farben:**  
-| Farbe       | Vorher | Nachher               |
-| ----------- | ------ | --------------------- |
-| Light Gray  | ⬜      | ⬜ (leicht heller)     |
-| Dark Gray   | ◼️     | ◼️ (dunkler/bläulich) |
-| Black       | ⬛      | ⬛ (dunkler)           |
-| Orange/Blau | 🟧     | 🟦                    |
-
-
-Light Gray: vorher Color(212, 212, 210), nachher Color(210, 210, 210) (leicht heller)
-
-Dark Gray: vorher Color(80, 80, 80), nachher Color(50, 50, 60) (dunkler, leicht bläulich)
-
-Black: vorher Color(28, 28, 28), nachher Color(20, 20, 30) (dunkler)
-
-Orange zu Blau: vorher Color(255, 149, 0), nachher Color(0, 122, 255) (Blau statt Orange)
+| Farbe         | Vorher                 | Nachher                                   |
+| ------------- | ---------------------- | ----------------------------------------- |
+| Light Gray    | ⬜ `Color(212,212,210)` | ⬜ `Color(210,210,210)` (leicht heller)    |
+| Dark Gray     | ◼️ `Color(80,80,80)`   | ◼️ `Color(50,50,60)` (dunkler/bläulich)   |
+| Black         | ⬛ `Color(28,28,28)`    | ⬛ `Color(20,20,30)` (dunkler)             |
+| Orange → Blau | 🟧 `Color(255,149,0)`  | 🟦 `Color(0,122,255)` (Blau statt Orange) |
 
 **2. Buttons:**
 | Eigenschaft | Vorher                | Nachher  |
